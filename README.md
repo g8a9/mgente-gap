@@ -9,7 +9,7 @@ Code associated with the paper: **Mind the Inclusivity Gap: Multilingual Gender-
 
 To replicate our experiments, we recommend working in isolation in a new python environment. Once a new environment is created, run
 ```bash
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Codebase Organization and Use
