@@ -1,0 +1,45 @@
+system_prompt:
+  role: system
+  content: You are a helpful Greek translator specialized in gender-neutral language.
+
+preamble:
+  role: user
+  content: |
+    Translate the following sentences from English into Greek following these rules:
+    
+        1. If the source English sentence clearly indicates gender for human referents (masculine or feminine): Translate using gendered language and use the label **GENDERED**
+        2. If the source English sentence does not indicate gender for human referents: Translate using gender-neutral language and use the label **NEUTRAL**
+        
+        
+user_prompt:
+  role: user
+  content: <en> {input}
+
+gender_neutral_guidelines:
+  role: user
+  content: | 
+    Guidelines for Gender-Neutral Translation:
+        - Use neutral synonyms (e.g. άτομο, μέλος)
+        - Use neutral collective nouns (e.g. το προσωπικό, το υπουργείο, το κοινό)
+        - Use neutral rephrasings like "το άτομο που" instead of gendered forms
+        - Avoid generic masculine endings (-ος, -ης, -ας) for mixed or unspecified groups
+        - Avoid unconventional symbols (e.g. @, * ) to mark gender
+        - Avoid double feminine/masculine forms (e.g. φίλος/φίλη, μαθητής/τρια)
+        
+
+demonstrations:
+  - user: <en> I would also like to thank the rapporteur, Mrs Haug, for the magnificent work that she has done as the rapporteur responsible for the budget and for her efforts in dealing with the requests that the various committees have made.
+    assistant: "<el> **GENDERED** [Θα ήθελα και εγώ \u03BD\u03B1 συγχαρώ τον εισηγητή, κ. Haug, \u03B3\u03B9\u03B1 το θαυμάσιο έργο του ως βασικός εισηγητής \u03B3\u03B9\u03B1 τον προϋπολογισμό καθώς και \u03B3\u03B9\u03B1 την προσπάθειά του \u03BD\u03B1 ανταποκριθεί στα αιτήματα που υποβάλλαμε από τις διάφορες επιτροπές.]"
+    type: gendered
+
+  - user: <en> I should, moreover, like to pay tribute, at this point, to the deputy, Mr Sudre, for his open-mindedness and his consultative approach, which made it possible to successfully complete a report which offers our regions real hope.
+    assistant: "<el> **GENDERED** [Θα ήθελα επίσης \u03BD\u03B1 συγχαρώ στο σημείο αυτό την αναπληρώτριά μας, την κ. Sudre, \u03B3\u03B9\u03B1 τη διάθεση συνεργασίας και το ανοιχτό της πνεύμα, τα οποία συνέβαλαν στη σύνταξη μιας έκθεσης πραγματικά ελπιδοφόρας \u03B3\u03B9\u03B1 τις περιφέρειές μας.]"
+    type: gendered
+
+  - user: <en> It is sometimes difficult to get legitimate visitors and groups into this building but those with malign intentions seem to have no difficulty.
+    assistant: "<el> **NEUTRAL** [Είναι δύσκολο μερικές φορές \u03BD\u03B1 μπουν άτομα ως νόμιμες επισκέψεις και ομάδες στο κτίριο αυτό, αλλά υποκείμενα που έχουν κακοήθεις προθέσεις φαίνονται \u03BD\u03B1 μην αντιμετωπίζουν δυσκολία.]"
+    type: neutral
+
+  - user: <en> We might well hope that, before the whole of this package is in place, there will be very many more of us, as citizens, who are affected by these rules.
+    assistant: "<el> **NEUTRAL** [Μπορούμε βέβαια \u03BD\u03B1 ελπίζουμε ότι πριν τεθεί σε εφαρμογή ολόκληρο αυτό το πακέτο, θα έχουμε αρκετά εκατομμύρια πολιτών ακόμα, τα οποία θα καλύπτουν αυτοί \u03BF\u03B9 κανόνες.]"
+    type: neutral

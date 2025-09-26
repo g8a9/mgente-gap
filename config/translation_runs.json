@@ -1,0 +1,3362 @@
+{
+  "0": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "1": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "2": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "3": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "4": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "5": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "6": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "7": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "8": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "9": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "10": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "11": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "12": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "13": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "14": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "15": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "16": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "17": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "18": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "19": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "20": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "21": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "22": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "23": {
+    "lang": "it",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "24": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "25": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "26": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "27": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "28": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "29": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "30": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "31": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "32": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "33": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "34": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "35": {
+    "lang": "it",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "36": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "37": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "38": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "39": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "40": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "41": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "42": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "43": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "44": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "45": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "46": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "47": {
+    "lang": "it",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "48": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "49": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "50": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "51": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "52": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "53": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "54": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "55": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "56": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "57": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "58": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "59": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "60": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "61": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "62": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "63": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "64": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "65": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "66": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "67": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "68": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "69": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "70": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "71": {
+    "lang": "it",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "72": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "73": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "74": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "75": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "76": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "77": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "78": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "79": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "80": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "81": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "82": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "83": {
+    "lang": "it",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "84": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "85": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "86": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "87": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "88": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "89": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "90": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "91": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "92": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "93": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "94": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "95": {
+    "lang": "it",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "96": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "97": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "98": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "99": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "100": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "101": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "102": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "103": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "104": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "105": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "106": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "107": {
+    "lang": "it",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "108": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "109": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "110": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "111": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "112": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "113": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "114": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "115": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "116": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "117": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "118": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "119": {
+    "lang": "it",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "120": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "121": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "122": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "123": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "124": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "125": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "126": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "127": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "128": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "129": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "130": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "131": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "132": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "133": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "134": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "135": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "136": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "137": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "138": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "139": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "140": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "141": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "142": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "143": {
+    "lang": "es",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "144": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "145": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "146": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "147": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "148": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "149": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "150": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "151": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "152": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "153": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "154": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "155": {
+    "lang": "es",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "156": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "157": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "158": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "159": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "160": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "161": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "162": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "163": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "164": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "165": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "166": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "167": {
+    "lang": "es",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "168": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "169": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "170": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "171": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "172": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "173": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "174": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "175": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "176": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "177": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "178": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "179": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "180": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "181": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "182": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "183": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "184": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "185": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "186": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "187": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "188": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "189": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "190": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "191": {
+    "lang": "es",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "192": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "193": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "194": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "195": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "196": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "197": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "198": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "199": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "200": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "201": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "202": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "203": {
+    "lang": "es",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "204": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "205": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "206": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "207": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "208": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "209": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "210": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "211": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "212": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "213": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "214": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "215": {
+    "lang": "es",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "216": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "217": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "218": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "219": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "220": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "221": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "222": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "223": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "224": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "225": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "226": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "227": {
+    "lang": "es",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "228": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "229": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "230": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "231": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "232": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "233": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "234": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "235": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "236": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "237": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "238": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "239": {
+    "lang": "es",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "240": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "241": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "242": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "243": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "244": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "245": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "246": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "247": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "248": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "249": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "250": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "251": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "252": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "253": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "254": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "255": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "256": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "257": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "258": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "259": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "260": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "261": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "262": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "263": {
+    "lang": "de",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "264": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "265": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "266": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "267": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "268": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "269": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "270": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "271": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "272": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "273": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "274": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "275": {
+    "lang": "de",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "276": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "277": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "278": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "279": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "280": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "281": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "282": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "283": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "284": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "285": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "286": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "287": {
+    "lang": "de",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "288": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "289": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "290": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "291": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "292": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "293": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "294": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "295": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "296": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "297": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "298": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "299": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "300": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "301": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "302": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "303": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "304": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "305": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "306": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "307": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "308": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "309": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "310": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "311": {
+    "lang": "de",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "312": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "313": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "314": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "315": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "316": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "317": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "318": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "319": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "320": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "321": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "322": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "323": {
+    "lang": "de",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "324": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "325": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "326": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "327": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "328": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "329": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "330": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "331": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "332": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "333": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "334": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "335": {
+    "lang": "de",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "336": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "337": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "338": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "339": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "340": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "341": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "342": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "343": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "344": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "345": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "346": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "347": {
+    "lang": "de",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "348": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "349": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "350": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "351": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "352": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "353": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "354": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "355": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "356": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "357": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "358": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "359": {
+    "lang": "de",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "360": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "361": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "362": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "363": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "364": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "365": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "366": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "367": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "368": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "369": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "370": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "371": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.1-8B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "372": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "373": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "374": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "375": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "376": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "377": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "378": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "379": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "380": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "381": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "382": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "383": {
+    "lang": "el",
+    "model": "Unbabel/TowerInstruct-Mistral-7B-v0.2",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "384": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "385": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "386": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "387": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "388": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "389": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "390": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "391": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "392": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "393": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "394": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "395": {
+    "lang": "el",
+    "model": "utter-project/EuroLLM-9B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "396": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "397": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "398": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "399": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "400": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "401": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "402": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "403": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "404": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "405": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "406": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "407": {
+    "lang": "el",
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "408": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "409": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "410": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "411": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "412": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "413": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "414": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "415": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "416": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "417": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "418": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "419": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "420": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "421": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "422": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "423": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "424": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "425": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "426": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "427": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "428": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "429": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "430": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "431": {
+    "lang": "el",
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "432": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "433": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "434": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "435": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "436": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "437": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "438": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "439": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "440": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "441": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "442": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "443": {
+    "lang": "el",
+    "model": "microsoft/phi-4",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "444": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "445": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "446": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "447": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "448": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "449": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "450": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "451": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "452": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "453": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "454": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "455": {
+    "lang": "el",
+    "model": "google/gemma-2-9b-it",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "456": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "457": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "458": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "459": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "460": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "461": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "462": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "463": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "464": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "465": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "466": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "467": {
+    "lang": "el",
+    "model": "Qwen/Qwen2.5-72B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "468": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "469": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "470": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "471": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "472": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "473": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": true,
+    "use_guidelines": false,
+    "n_shots": 4
+  },
+  "474": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 0
+  },
+  "475": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 0
+  },
+  "476": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 2
+  },
+  "477": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 2
+  },
+  "478": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": true,
+    "n_shots": 4
+  },
+  "479": {
+    "lang": "el",
+    "model": "meta-llama/Llama-3.3-70B-Instruct",
+    "use_system": false,
+    "use_guidelines": false,
+    "n_shots": 4
+  }
+}

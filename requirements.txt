@@ -1,0 +1,8 @@
+datasets
+accelerate
+hf_transfer
+scikit-learn
+pandas
+openai
+tyro
+lxt

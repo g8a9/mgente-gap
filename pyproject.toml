@@ -1,0 +1,16 @@
+[tool.pyright]
+include = ["src", "notebooks"]
+exclude = ["**/node_modules",
+    "**/__pycache__",
+    "src/context-cite",
+    "src/outlines",
+    "results-interim-gente-xai",
+]
+defineConstant = { DEBUG = true }
+stubPath = "src/stubs"
+
+reportMissingImports = "error"
+reportMissingTypeStubs = false
+
+pythonVersion = "3.10.12"
+pythonPlatform = "Linux"
