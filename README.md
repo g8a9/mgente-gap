@@ -14,19 +14,29 @@ pip install -f requirements.txt
 
 ## Codebase Organization and Use
 
-The codebase will let you run the four main experimental components of the paper.
+The codebase will let you run the four main experimental components of the paper. Each script will require minimal changes to adapt to your setup, e.g., correct input/output directories, etc.
 
 > [!IMPORTANT]
 > We used a SLURM-based HPC to run our experiments. Some bash script and organization require you to be in the same situation or minimal changes to be run on a standard workstation. If anything is not clear, please open an issue on this repository.
 
 ### 1. Translating mGeNTE
 
+Use the script `bash/translate_runs.sh` to translate mGeNTE across all models, languages, and using the correct configurations. Input parameters for each run are in the file `config/translate_runs.sh`. This script's logic is based on running one translation run per SLURM job using arrayjobs.
+
 ### 2. Gender Neutral Evaluation of Translations
+
+Once translations are generated, you can assing a neutrality label using the code in `src/gnt_eval`. Please refer to the README.md in that folder for details. 
 
 ### 3. Computing Attributions using AttnLRP
 
-### 4. (Jupyter) Analyzing the Attribution Scores
+Use the script `bash/attribute_attnlrp.sh` to compute fine-grained token attributions. 
 
+> [!TIP]
+> We are in the process of releasing **all** the attributions we computed so you won't have to (provided that you are interested in attributing the same models).
+
+### 4. Analyzing the Attribution Scores
+
+Use the Jupyter Notebook `notebooks/analize_attnlrp.ipynb` to analyze, aggregate, and postprocess the raw attribute scores computed in the previous step. You may want to run this script to compute an intermediate representation with statistics of which part of the context was most used for which translation example.
 
 ## Citation
 
