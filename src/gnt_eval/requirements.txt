@@ -1,0 +1,16 @@
+codecarbon==2.8.2
+datasets==3.1.0
+huggingface-hub==0.25.2
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+numpy==2.0.2
+outlines==0.1.1
+outlines_core==0.1.14
+pandas==2.2.3
+sacrebleu==2.5.1
+scikit-learn==1.6.0
+scipy==1.14.1
+torch==2.5.1
+transformers==4.45.2
+matplotlib~=3.10.0
+openai~=1.51.2
