@@ -1,4 +1,4 @@
-[![View of Trento](banner.jpg)](https://mt.fbk.eu/)
+<!-- [![View of Trento](banner.jpg)](https://mt.fbk.eu/) -->
 
 Code associated with the paper: **Mind the Inclusivity Gap: Multilingual Gender-Neutral Translation Evaluation with mGeNTE**. 
 
