@@ -32,11 +32,11 @@ Once translations are generated, you can assing a neutrality label using the cod
 Use the script `bash/attribute_attnlrp.sh` to compute fine-grained token attributions. 
 
 > [!TIP]
-> We are in the process of releasing **all** the attributions we computed so you won't have to (provided that you are interested in attributing the same models).
+> We have released **all** the attributions we computed, so you don't have to. You can find them at [this link](https://huggingface.co/datasets/FBK-MT/mGeNTE-xai).
 
 ### 4. Analyzing the Attribution Scores
 
-Use the Jupyter Notebook `notebooks/analize_attnlrp.ipynb` to analyze, aggregate, and postprocess the raw attribute scores computed in the previous step. You may want to run this script to compute an intermediate representation with statistics of which part of the context was most used for which translation example.
+Use the Jupyter Notebook `notebooks/analize_attnlrp.ipynb` to analyze, aggregate, and postprocess the raw attribute scores computed in the previous step. You may want to run this script to compute an intermediate representation with statistics on which part of the context was most frequently used for each translation example.
 
 ## Citation
 
