@@ -2,8 +2,9 @@
 
 Code associated with the paper: **Mind the Inclusivity Gap: Multilingual Gender-Neutral Translation Evaluation with mGeNTE**. 
 
-[![HuggingFace Dataset](https://img.shields.io/badge/HF-Dataset-yellow)](https://huggingface.co/datasets/FBK-MT/mGeNTE)
 [![arxiv](https://img.shields.io/badge/arxiv-paper-red)](https://arxiv.org/abs/2501.09409)
+[![HuggingFace Dataset](https://img.shields.io/badge/HF-Dataset-yellow)](https://huggingface.co/datasets/FBK-MT/mGeNTE)
+[![HuggingFace Dataset Supplementary](https://img.shields.io/badge/Supplementary-Dataset-orange)]([https://huggingface.co/datasets/FBK-MT/mGeNTE](https://huggingface.co/datasets/FBK-MT/mGeNTE-supplementary))
 
 ## Getting Started
 
